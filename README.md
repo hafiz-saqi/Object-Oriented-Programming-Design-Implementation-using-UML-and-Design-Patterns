@@ -1,0 +1,2 @@
+# Object-Oriented-Programming-Design-Implementation-using-UML-and-Design-Patterns
+Produced a Hotel Reservation System for Snowden Hotel Chain. A robust, OOP-based application designed to provide seamless booking with real-time availability, multiple room options, and secure reservation management. Built using StarUML for design and modern development practices to ensure scalability, maintainability, and efficiency.
